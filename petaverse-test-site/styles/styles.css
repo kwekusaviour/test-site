@@ -1,0 +1,67 @@
+.flex-container{
+    display: flex;
+    justify-content: baseline;
+}
+.header{
+    background-color: black;
+    color: white;
+    height: 50px;
+    margin-bottom: 0px 0px 10px 0px;
+    display: flex;
+}
+#phead{
+    padding: 0px 0px 0px 50px;
+    color: white;
+}
+.navigator{
+    background-color: white;
+    margin: 10px 20px 10px 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.main{
+    background-image: url(/image/background.jpeg);
+    background-size: cover;
+}
+#blp{
+    padding-right: 50px;
+}
+.phone{
+    padding: 50px 5px 0px 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.email{
+    padding: 50px 0px 0px 5px;
+    display: flex;
+    justify-content: space-between;
+}
+#ul1{
+    list-style: none;
+}
+.main{
+    background-image: url(/image/background.jpeg);
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1000px;
+    padding-top: 100px;
+}
+.ul{
+    display: flex;
+    list-style-type: none;
+}
+.li{
+    padding: 15px 10px 15px 10px;
+    justify-content: space-evenly;
+}
+#black{
+    color: white;
+    background-color: black;
+    justify-content: center;
+}
+
+.yellow{
+    color: white;
+    background-color: rgb(red, green, blue);
+    justify-content: center;
+}
